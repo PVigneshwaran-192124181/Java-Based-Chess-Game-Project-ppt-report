@@ -1,4 +1,6 @@
 🕹️ Java Game with Computer Opponent
+
+
 🎯 Project Overview
 This is a Java-based single-player game where the player competes against a computer-controlled opponent. The project demonstrates strong knowledge of Object-Oriented Programming (OOP), randomized AI logic, and Java user interaction through console or GUI.
 
